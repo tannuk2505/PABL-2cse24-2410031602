@@ -24,4 +24,4 @@ def minSwaps(arr, k):
         ans = min(ans, bad)
         i += 1
     
-    return ans
+    return
